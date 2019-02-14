@@ -5,5 +5,3 @@
 > Timestamp Microservice (https://sunset-adapter.glitch.me/)
 > Request Header Parser Microservice (https://dawn-crib.glitch.me/)
 > URL Shortener Microservice (https://silly-bat.glitch.me/)
-
- 
